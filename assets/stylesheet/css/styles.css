@@ -5515,7 +5515,7 @@ img {
   display: table;
   background: url("{{ site.baseurl }}/assets/images/atelje/DSC_7891.jpg") center no-repeat fixed;
   background-size: cover;
-  height: auto;
+  height: 1000px;
   width: 100%;
   color: #000914; }
 
