@@ -1,5 +1,5 @@
 .ozadje-izdelki {
-	background: url('/assets/images/atelje/DSC_7905-2.jpg') no-repeat center right fixed;
+	background: url('{{ site.baseurl }}{{ post.url }}/assets/images/atelje/DSC_7905-2.jpg') no-repeat center right fixed;
 	background-size: cover;
 }
 
