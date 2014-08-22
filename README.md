@@ -1,4 +1,4 @@
-irena-cernovsek
-===============
+irenacernovsek.github.io
+========================
 
-web page - presentation of unique designs by Irena Černovšek
+Web page for my mum

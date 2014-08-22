@@ -1,0 +1,31 @@
+.ozadje-kontakt {
+	background: url('/assets/images/atelje/DSC_7894.jpg') no-repeat center right fixed;
+	background-size: cover;
+}
+
+.cover-kontakt {
+  	margin: 6em auto 0 auto;
+  	display: table;
+  	padding: 5em;
+
+}
+
+.circle-kontakt {
+	display: inline-block;
+	height: 22em;
+	width: 22em;
+	border-radius: 11em;
+	-moz-border-radius: 11em;
+	-webkit-border-radius: 11em;
+	background-color: $off-white-color-trans;
+
+	p {
+		padding-top: 5.5em;
+		font-size: 3em;
+		color: $primary-color;
+	}
+
+&:hover {
+	background-color: $off-white-color;
+}
+}

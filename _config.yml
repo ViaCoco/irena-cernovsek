@@ -1,0 +1,18 @@
+# Site settings
+title: Irena Černovsek
+email: irenacernovsek@gmail.com
+description: "Unikatni nakit"
+baseurl: "/irena-cernovsek"
+url: "http://viacoco.github.io/irena-cernovsek/"
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+
