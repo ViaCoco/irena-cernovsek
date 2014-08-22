@@ -5508,16 +5508,18 @@ img {
   
 .cover {
   width: 100%;
-  height: 1000px;
+  height: auto;
+  padding: 10em;
 }
 
 .cover-domov {
   display: table;
   background: url("{{ site.baseurl }}/assets/images/atelje/DSC_7891.jpg") center no-repeat fixed;
   background-size: cover;
-  height: 1000px;
+  height: auto;
   width: 100%;
-  color: #000914; }
+  color: #000914;
+  padding: 10em; }
 
 .ime {
   font-family: 'Playfair display', sans-serif;
