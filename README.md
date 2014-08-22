@@ -1,4 +1,4 @@
-irenacernovsek.github.io
+irena-cernovsek
 ========================
 
-Web page for my mum
+Web page for my mum and her designs.
