@@ -5447,7 +5447,7 @@ img {
   /** Pad the lightbox image */
   width: 35%;
   height: auto;
-  margin: 3% auto; }
+  margin: 5% auto; }
 
 .lightbox:target {
   /** Show lightbox when it is target */
@@ -5567,7 +5567,7 @@ img {
   line-height: 1.2; }
 
 .cover-o-ireni img {
-  height: 25em;
+  height: auto;
   width: auto; }
 
 .ozadje-izdelki {
@@ -5616,7 +5616,8 @@ img {
 .cover-kontakt {
   margin: 6em auto 0 auto;
   display: table;
-  padding: 5em; }
+  padding: 5em;
+  height: auto; }
 
 .circle-kontakt {
   display: inline-block;
