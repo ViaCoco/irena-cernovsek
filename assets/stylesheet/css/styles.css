@@ -5509,7 +5509,6 @@ img {
 .cover {
   width: 100%;
   height: auto;
-  padding: 10em;
 }
 
 .cover-domov {
@@ -5519,7 +5518,7 @@ img {
   height: auto;
   width: 100%;
   color: #000914;
-  padding: 10em; }
+  padding: 15em 0; }
 
 .ime {
   font-family: 'Playfair display', sans-serif;
