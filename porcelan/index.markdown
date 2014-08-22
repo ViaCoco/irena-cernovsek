@@ -30,7 +30,7 @@ title: Porcelan
             </div>
             <div class="col-md-2 col-sm-3 col-xs-4">
                 <a href="#img11">
-                    <img src="/assets/images/porcelan/DSC_7381-1.jpg" alt="porcelan"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7381-1.jpg" alt="porcelan"/>
                 </a>
                 <a href="#_" class="lightbox zoom" id="img11">
                     <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7381-1.jpg" alt="porcelan"/>
@@ -41,7 +41,7 @@ title: Porcelan
                     <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7390-1.jpg" alt="porcelan"/>
                 </a>
                 <a href="#_" class="lightbox zoom" id="img12">
-                    <img src="/assets/images/porcelan/DSC_7390-1.jpg" alt="porcelan"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7390-1.jpg" alt="porcelan"/>
                 </a>
             </div>
             <div class="col-md-2 col-sm-3 col-xs-4">
@@ -54,7 +54,7 @@ title: Porcelan
             </div>
             <div class="col-md-2 col-sm-3 col-xs-4">
                 <a href="#img14">
-                    <img src="/assets/images/porcelan/DSC_7401-1.jpg" alt="porcelan"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7401-1.jpg" alt="porcelan"/>
                 </a>
                 <a href="#_" class="lightbox zoom" id="img14">
                     <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7401-1.jpg" alt="porcelan"/>
@@ -70,7 +70,7 @@ title: Porcelan
             </div>
             <div class="col-md-2 col-sm-3 col-xs-4">
                 <a href="#img16">
-                    <img src="/assets/images/porcelan/DSC_7409-1.jpg" alt="porcelan"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7409-1.jpg" alt="porcelan"/>
                 </a>
                 <a href="#_" class="lightbox zoom" id="img16">
                     <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7409-1.jpg" alt="porcelan"/>
