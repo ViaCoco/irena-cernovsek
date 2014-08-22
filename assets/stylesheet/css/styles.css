@@ -5505,6 +5505,11 @@ img {
 .caption:hover::before,
 .caption:hover::after {
   transform: translateX(0%); }
+  
+.cover {
+  width: 100%;
+  height: auto;
+}
 
 .cover-domov {
   display: table;
@@ -5567,7 +5572,7 @@ img {
   line-height: 1.2; }
 
 .cover-o-ireni img {
-  height: auto;
+  height: 25em;
   width: auto; }
 
 .ozadje-izdelki {
