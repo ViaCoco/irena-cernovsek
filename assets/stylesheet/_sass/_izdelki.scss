@@ -1,0 +1,53 @@
+.ozadje-izdelki {
+	background: url('/irena-cernovsek/assets/images/atelje/DSC_7905-2.jpg') no-repeat center right fixed;
+	background-size: cover;
+}
+
+.cover-izdelki {
+	margin: 0 auto;
+  	display: table;
+  	padding: 5em 0 50em 0;
+}
+
+.col-md-6 {
+	padding: 0.5em 1.5em 0.5em 1.5em;
+}
+
+.link-more {
+	font-size: 0.5em;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	color: rgba(183,72,38,1);
+	font-weight: 300;
+	margin: 45% auto;
+	padding: 0.2em;
+	border: 0.1em solid rgba(183,72,38,1);
+	background-color: rgba(162,131,104,0.0);
+	text-decoration: none;
+}
+
+
+
+.circle-izdelki {
+	margin-top: 10em;
+	display: inline-block;
+	height: 22em;
+	width: 22em;
+	border-radius: 11em;
+	-moz-border-radius: 11em;
+	-webkit-border-radius: 11em;
+	background-color: $primary-color-trans;
+
+	p {
+		padding-top: 4em;
+		font-size: 4em;
+		color: $off-white-color;
+	}
+
+&:hover {
+	background-color: $primary-color;
+}
+}
+
+
+
