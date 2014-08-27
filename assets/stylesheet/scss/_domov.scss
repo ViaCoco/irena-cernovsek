@@ -1,10 +1,9 @@
 .cover-domov {
-	display: table;
-	background: url('{{ site.baseurl }}/assets/images/atelje/DSC_7891.jpg') center no-repeat fixed;
+	background: url('{{ site.baseurl }}/assets/images/atelje/DSC_7891.jpg') center center no-repeat fixed;
 	background-size: cover;
-	height: auto;
 	width: 100%;
 	color: $deepblue-color;
+	height: auto;
 }
 
 .ime {
@@ -28,21 +27,22 @@
 }
 
 .pod {
-
 	font-family: 'Open Sans', sans-serif;
 	color: $primary-color;
 	text-align: right;
 	font-weight: 300;
-	background-color: $off-white-color-trans;
-	max-width: 75%;
+	max-width: 50%;
+	padding-bottom: 12em;
 }
 
 .podnaslov {
+	background-color: $off-white-color-trans;
 	font-size: 1.8em;
 	padding: 0.3em;
 }
 
 .podnaslov-small {
+	background-color: $off-white-color-trans;
 	font-size: 1.4em;
 	padding: 0.1em;	
 }

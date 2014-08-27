@@ -1,7 +1,5 @@
 ---
-title: css
 ---
-
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif;
@@ -5342,14 +5340,16 @@ nav {
 header {
   color: #000914; }
 
+.cover {
+  height: auto; }
+
 section {
   top: 0;
   position: absolute;
   background-color: rgba(250, 232, 217, 0.6);
   width: 100%;
   z-index: 0;
-  height: auto;
-  padding: 0; }
+  height: auto; }
 
 .tabs {
   margin: 0 auto;
@@ -5424,11 +5424,11 @@ img {
   overflow: hidden; }
 
 .zoom img:hover {
-  transform: scale(1.3);
-  -ms-transform: scale(1.3);
-  -moz-transform: scale(1.3);
-  -webkit-transform: scale(1.3);
-  -o-transform: scale(1.3); }
+  transform: scale(1.5);
+  -ms-transform: scale(1.5);
+  -moz-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  -o-transform: scale(1.5); }
 
 .lightbox {
   /** Hide the lightbox */
@@ -5445,9 +5445,9 @@ img {
 
 .lightbox img {
   /** Pad the lightbox image */
-  width: 35%;
+  width: 45%;
   height: auto;
-  margin: 5% auto; }
+  margin: 10% auto; }
 
 .lightbox:target {
   /** Show lightbox when it is target */
@@ -5505,21 +5505,13 @@ img {
 .caption:hover::before,
 .caption:hover::after {
   transform: translateX(0%); }
-  
-.cover {
-  width: 100%;
-  height: auto;
-  padding: 10em 0 25em 0;
-}
 
 .cover-domov {
-  display: table;
-  background: url("{{ site.baseurl }}/assets/images/atelje/DSC_7891.jpg") center no-repeat fixed;
+  background: url("{{ site.baseurl }}/assets/images/atelje/DSC_7891.jpg") center center no-repeat fixed;
   background-size: cover;
-  height: auto;
   width: 100%;
-  color: #000914; 
-}
+  color: #000914;
+  height: auto; }
 
 .ime {
   font-family: 'Playfair display', sans-serif;
@@ -5543,14 +5535,16 @@ img {
   color: #701804;
   text-align: right;
   font-weight: 300;
-  background-color: rgba(250, 232, 217, 0.6);
-  max-width: 75%; }
+  max-width: 50%;
+  padding-bottom: 12em; }
 
 .podnaslov {
+  background-color: rgba(250, 232, 217, 0.6);
   font-size: 1.8em;
   padding: 0.3em; }
 
 .podnaslov-small {
+  background-color: rgba(250, 232, 217, 0.6);
   font-size: 1.4em;
   padding: 0.1em; }
 
@@ -5623,8 +5617,8 @@ img {
 .cover-kontakt {
   margin: 6em auto 0 auto;
   display: table;
-  padding: 5em;
-  height: auto; }
+  padding-top: 5em;
+  padding-bottom: 10em; }
 
 .circle-kontakt {
   display: inline-block;
