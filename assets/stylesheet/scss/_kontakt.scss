@@ -1,18 +1,18 @@
 .ozadje-kontakt {
-	background: url('{{ site.baseurl }}/assets/images/atelje/DSC_7894.jpg') no-repeat center right fixed;
+	background: url('{{ site.baseurl }}/assets/images/atelje/DSC_7894.jpg') no-repeat center center fixed;
 	background-size: cover;
 }
 
 .cover-kontakt {
-  	margin: 6em auto 0 auto;
+  	margin: 0 auto;
   	display: table;
-  	padding-top: 5em;
-  	padding-bottom: 10em;
-
+  	padding: 5em 0 50em 0;
 }
 
 .circle-kontakt {
 	display: inline-block;
+	margin-top: 10em;
+	margin-bottom: 16em;
 	height: 22em;
 	width: 22em;
 	border-radius: 11em;

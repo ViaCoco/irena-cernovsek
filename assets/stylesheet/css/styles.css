@@ -5300,10 +5300,6 @@ html {
   width: 100%;
   overflow-x: hidden; }
 
-.container-fluid {
-  margin: 0 auto;
-  padding: 0; }
-
 ul {
   list-style-type: none; }
 
@@ -5340,16 +5336,17 @@ nav {
 header {
   color: #000914; }
 
-.cover {
-  height: auto; }
-
 section {
   top: 0;
   position: absolute;
   background-color: rgba(250, 232, 217, 0.6);
+  z-index: 0; }
+
+.cover {
   width: 100%;
-  z-index: 0;
-  height: auto; }
+  height: auto;
+  margin: 0 auto;
+  background-size: cover; }
 
 .tabs {
   margin: 0 auto;
@@ -5508,10 +5505,13 @@ img {
 
 .cover-domov {
   background: url("{{ site.baseurl }}/assets/images/atelje/DSC_7891.jpg") center center no-repeat fixed;
-  background-size: cover;
-  width: 100%;
-  color: #000914;
-  height: auto; }
+  background-size: 100% auto;
+  color: #000914; }
+
+.centered {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle; }
 
 .ime {
   font-family: 'Playfair display', sans-serif;
@@ -5521,8 +5521,8 @@ img {
 
 .irena {
   font-size: 6em;
-  margin-top: 3em;
-  max-width: 60%;
+  margin-top: 4em;
+  max-width: 100%;
   padding-left: 0.1em; }
 
 .irena-small {
@@ -5535,8 +5535,8 @@ img {
   color: #701804;
   text-align: right;
   font-weight: 300;
-  max-width: 50%;
-  padding-bottom: 12em; }
+  max-width: 80%;
+  padding-bottom: 45em; }
 
 .podnaslov {
   background-color: rgba(250, 232, 217, 0.6);
@@ -5576,9 +5576,9 @@ img {
   background-size: cover; }
 
 .cover-izdelki {
-  margin: 6em auto 0 auto;
+  margin: 0 auto;
   display: table;
-  padding: 5em; }
+  padding: 5em 0 50em 0; }
 
 .col-md-6 {
   padding: 0.5em 1.5em 0.5em 1.5em; }
@@ -5596,6 +5596,7 @@ img {
   text-decoration: none; }
 
 .circle-izdelki {
+  margin-top: 10em;
   display: inline-block;
   height: 22em;
   width: 22em;
@@ -5611,17 +5612,18 @@ img {
     background-color: #701804; }
 
 .ozadje-kontakt {
-  background: url("{{ site.baseurl }}/assets/images/atelje/DSC_7894.jpg") no-repeat center right fixed;
+  background: url("{{ site.baseurl }}/assets/images/atelje/DSC_7894.jpg") no-repeat center center fixed;
   background-size: cover; }
 
 .cover-kontakt {
-  margin: 6em auto 0 auto;
+  margin: 0 auto;
   display: table;
-  padding-top: 5em;
-  padding-bottom: 10em; }
+  padding: 5em 0 50em 0; }
 
 .circle-kontakt {
   display: inline-block;
+  margin-top: 10em;
+  margin-bottom: 16em;
   height: 22em;
   width: 22em;
   border-radius: 11em;

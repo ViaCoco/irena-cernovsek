@@ -4,9 +4,9 @@ title: unikatni izdelki iz gline in porcelana
 ---
 
 
-<div class="container-fluid cover ozadje-izdelki">
+<div class="ozadje-izdelki">
 	<div class="cover-izdelki">
-		<div class="row">
+		<div class="row centered">
 			<div class="col-md-6">
 				<div class="circle-izdelki text-center">
 					<a class="link-more" href="{{ site.baseurl }}{{ post.url }}/porcelan">

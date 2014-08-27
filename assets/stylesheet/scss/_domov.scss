@@ -1,9 +1,15 @@
+
+
 .cover-domov {
 	background: url('{{ site.baseurl }}/assets/images/atelje/DSC_7891.jpg') center center no-repeat fixed;
-	background-size: cover;
-	width: 100%;
+	background-size: 100% auto;
 	color: $deepblue-color;
-	height: auto;
+}
+
+.centered {
+  	display: table-cell;
+  	text-align: center;
+    vertical-align: middle;
 }
 
 .ime {
@@ -15,8 +21,8 @@
 
 .irena {
 	font-size: 6em;
-	margin-top: 3em;
-	max-width: 60%;
+	margin-top: 4em;
+	max-width: 100%;
 	padding-left: 0.1em;
 }
 
@@ -31,8 +37,8 @@
 	color: $primary-color;
 	text-align: right;
 	font-weight: 300;
-	max-width: 50%;
-	padding-bottom: 12em;
+	max-width: 80%;
+	padding-bottom: 50em;
 }
 
 .podnaslov {

@@ -4,7 +4,7 @@ title: Raku
 ---
 
 <div class="container-fluid">
-    <div class="cover cover-o-ireni">
+    <div class="cover-o-ireni">
       <h2 class="naslov">Glina-Raku</h2>
         <div class="opis">
            <p class="tekst text-center">
