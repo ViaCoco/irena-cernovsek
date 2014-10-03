@@ -3,8 +3,7 @@ layout: default
 title: Porcelan
 ---
 
-<div class="container-fluid">
-    <div class="cover-o-ireni">
+<div class="cover-o-ireni">
       <h2 class="naslov">Porcelan</h2>
         <div class="opis">
            <p class="tekst text-center">
@@ -94,5 +93,4 @@ title: Porcelan
              </div>
         </div> 
     </div>
-</div>
 
