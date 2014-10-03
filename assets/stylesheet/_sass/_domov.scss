@@ -1,7 +1,16 @@
 .cover-domov {
-	background: url('/irena-cernovsek/assets/images/atelje/DSC_7891.jpg') center center no-repeat fixed;
-	background-size: 100% auto;
-	color: $deepblue-color;
+	/* Set rules to fill background */
+  min-height: 100%;
+  min-width: 1024px;
+	
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+	
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 
 .centered {
@@ -36,7 +45,7 @@
 	text-align: right;
 	font-weight: 300;
 	max-width: 80%;
-	padding-bottom: 50em;
+	padding-bottom: 10em;
 }
 
 .podnaslov {
@@ -49,4 +58,11 @@
 	background-color: $off-white-color-trans;
 	font-size: 1.4em;
 	padding: 0.1em;	
+}
+
+@media screen and (max-width: 1024px) { /* Specific to this particular image */
+  .cover-domov {
+    left: 50%;
+    margin-left: -512px;   /* 50% */
+  }
 }

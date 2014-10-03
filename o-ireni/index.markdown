@@ -5,7 +5,7 @@ title: O Ireni
 
 <div class="container-fluid">
     <div class="cover-o-ireni">
-      <h2 class="naslov">Irena</h2>
+        <h2 class="naslov">Irena</h2>
         <div class="opis">
            <p class="tekst text-center">
             Irena Černovšek (rojena leta 1961)
@@ -84,7 +84,6 @@ title: O Ireni
                  </a>
              </div>
         </div>
-        </div>
-        
-    </div>
+    </div>    
 </div>
+

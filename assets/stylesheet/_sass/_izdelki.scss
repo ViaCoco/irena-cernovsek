@@ -4,9 +4,8 @@
 }
 
 .cover-izdelki {
-	margin: 0 auto;
-  	display: table;
-  	padding: 5em 0 50em 0;
+	margin-top: 7em;
+	padding-bottom: 5em;
 }
 
 .col-md-6 {
@@ -17,37 +16,40 @@
 	font-size: 0.5em;
 	text-align: center;
 	font-family: 'Open Sans', sans-serif;
-	color: rgba(183,72,38,1);
+	color: $terciar-color;
 	font-weight: 300;
 	margin: 45% auto;
 	padding: 0.2em;
-	border: 0.1em solid rgba(183,72,38,1);
-	background-color: rgba(162,131,104,0.0);
+	border: 0.1em solid $terciar-color;
+	background-color: rgba(255,255,255,0.0);
 	text-decoration: none;
 }
 
 
+.izdelki {
+padding: 0 2.5em;
 
-.circle-izdelki {
-	margin-top: 10em;
-	display: inline-block;
-	height: 22em;
-	width: 22em;
-	border-radius: 11em;
-	-moz-border-radius: 11em;
-	-webkit-border-radius: 11em;
-	background-color: $primary-color-trans;
 
-	p {
-		padding-top: 4em;
-		font-size: 4em;
-		color: $off-white-color;
-	}
+	.link-izdelki {
+		padding: 5em;
+   	 	background-color: $primary-color;
+    	z-index: 2;
+    	padding: 3%;
+    	border: solid 2em white;
 
-&:hover {
-	background-color: $primary-color;
+		h3 {
+			padding: 0.8em 0.2em;
+			font-size: 2em;
+			font-weight: 300;
+			width: 50%;
+			margin: 0 auto;
+			border: solid 0.1em white;
+			color: $off-white-color;
+
+			&:hover{
+			background-color: $off-white-color;
+			color: $primary-color;
+			}
+		}
+	}	
 }
-}
-
-
-

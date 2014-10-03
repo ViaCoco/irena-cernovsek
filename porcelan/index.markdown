@@ -8,10 +8,10 @@ title: Porcelan
       <h2 class="naslov">Porcelan</h2>
         <div class="opis">
            <p class="tekst text-center">
-            Cupcake ipsum dolor sit amet. Lollipop sugar plum candy canes wafer caramels brownie gummies croissant chocolate. Lemon drops dragée I love jelly beans jujubes jujubes I love. Soufflé gummi bears sweet lollipop sweet roll. Chocolate marzipan I love cheesecake halvah cotton candy pastry. Danish jujubes wafer lemon drops chocolate bar I love toffee. Pie pudding lemon drops brownie cheesecake dragée jelly beans jelly dragée. Gummi bears jelly beans gummies unerdwear.com. Caramels I love cookie jujubes powder jelly tiramisu.
+            ...
             </p>
         </div>
-        <div class="row">
+        <div class="container-fluid">
             <div class="col-md-2 col-sm-3 col-xs-4">
                 <a href="#img9">
                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7374-1.jpg" alt="porcelan"/>
@@ -92,8 +92,7 @@ title: Porcelan
                     </h3>
                  </a>
              </div>
-        </div>
-        </div>    
+        </div> 
     </div>
 </div>
 

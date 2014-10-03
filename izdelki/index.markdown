@@ -3,28 +3,29 @@ layout: default
 title: unikatni izdelki iz gline in porcelana
 ---
 
-
-<div class="ozadje-izdelki">
-	<div class="cover-izdelki">
-		<div class="row centered">
-			<div class="col-md-6">
-				<div class="circle-izdelki text-center">
-					<a class="link-more" href="{{ site.baseurl }}{{ post.url }}/porcelan">
-						<p class="">
-     						Porcelan
-						</p>
-					</a>
-				</div>
-			</div>
-			<div class="col-md-6">
-				<div class="circle-izdelki text-center">
-					<a class="link-more" href="{{ site.baseurl }}{{ post.url }}/raku">
-						<p class="">
-     						Glina-Raku
-						</p>
-					</a>
-				</div>
-			</div>
-		</div>	
+<div class="container-fluid">
+    <div class="cover-izdelki">
+      <h2 class="naslov">Izdelki</h2>
+        <div class="opis">
+           <p class="tekst text-center">
+            "Stvari so brez pomena, če jih oropamo zgodbe. So le oblike. Določene velikosti in barve. Pa teže. Ko pa enkrat izgubijo pomen, jim ne vemo več niti imena. Zgodba pa nikoli ne izgubi svojega prostora pod soncem, saj je sama svoj prostor."
+            </p>
+        </div>
+        <div class="row izdelki">
+            <div class="col-md-6 col-sm-12 col-xs-12 link-izdelki">
+                 <a class="link-more" href="{{ site.baseurl }}{{ post.url }}/porcelan">
+                    <h3>
+                    porcelan
+                    </h3>
+                 </a>
+        	</div>
+            <div class="col-md-6 col-sm-12 col-xs-12 link-izdelki">
+                 <a class="link-more" href="{{ site.baseurl }}{{ post.url }}/raku">
+                    <h3>
+                    glina - raku
+                    </h3>
+                 </a>
+        	</div>
+    	</div>
 	</div>
 </div>
