@@ -1,16 +1,15 @@
 .ozadje-kontakt {
-	/* Set rules to fill background */
   	min-height: 100%;
   	min-width: 1024px;
-	
- 	 /* Set up proportionate scaling */
   	width: 100%;
   	height: auto;
-	
-  	/* Set up positioning */
   	position: fixed;
   	top: 0;
   	left: 0;
+}
+
+.kontakt-form {
+	margin: 7em auto;
 }
 
 .link-kontakt {
@@ -19,7 +18,7 @@
 	font-family: 'Open Sans', sans-serif;
 	color: $terciar-color;
 	font-weight: 300;
-	margin: 15em auto;
+	margin: 1em auto 0;
 	padding: 0.5em;
 	border: 0.1em solid $terciar-color;
 	background-color: $off-white-color;
@@ -28,6 +27,24 @@
 	&:hover {
 		background-color: $terciar-color;
 		color: white;
+	}	
+}
+
+.kontakt-link {
+	padding: 1em;
+	font-size: 1.2em;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	margin: 1em auto;
+	color: $off-white-color;
+	background-color: $terciar-color;
+	background-color: $terciar-color;
+	text-decoration: none;	
+
+	span {
+		display: block;
+		margin-top: 1em;
 	}
 }
 

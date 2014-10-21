@@ -16,7 +16,7 @@ title: Raku
                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/raku/DSC_7350.jpg" alt="raku"/>
                 </a>
                 <a href="#_" class="lightbox zoom" id="img18">
-                   <img src="{{ site.baseurl }}{{ post.url }}/assets/images/raku/DSC_73650.jpg" alt="raku"/>
+                   <img src="{{ site.baseurl }}{{ post.url }}/assets/images/raku/DSC_7350.jpg" alt="raku"/>
                 </a>
             </div>
             <div class="col-md-2 col-sm-3 col-xs-4">
