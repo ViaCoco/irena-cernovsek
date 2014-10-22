@@ -12,20 +12,20 @@ title: unikatni izdelki iz gline in porcelana
             </p>
         </div>
         <div class="row izdelki">
-            <div class="col-md-6 col-sm-12 col-xs-12 link-izdelki">
-                 <a class="link-more" href="{{ site.baseurl }}{{ post.url }}/porcelan">
+            <a class="link-more" href="{{ site.baseurl }}{{ post.url }}/porcelan">
+                <div class="col-md-6 col-sm-12 col-xs-12 link-izdelki">
                     <h3>
                     porcelan
                     </h3>
-                 </a>
-        	</div>
-            <div class="col-md-6 col-sm-12 col-xs-12 link-izdelki">
-                 <a class="link-more" href="{{ site.baseurl }}{{ post.url }}/raku">
+        	    </div>
+            </a>
+            <a class="link-more" href="{{ site.baseurl }}{{ post.url }}/raku">
+                <div class="col-md-6 col-sm-12 col-xs-12 link-izdelki">
                     <h3>
                     glina - raku
                     </h3>
-                 </a>
-        	</div>
+                </div>
+            </a>
     	</div>
 	</div>
 </div>

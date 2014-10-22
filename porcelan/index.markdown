@@ -13,74 +13,74 @@ title: Porcelan
         <div class="row">
             <div class="col-md-2 col-sm-3 col-xs-4">
                 <a href="#img9">
-                   <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7374-1.jpg" alt="porcelan"/>
+                   <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7374-s.jpg" alt="porcelan"/>
                 </a>
                  <a href="#_" class="lightbox zoom" id="img9">
-                   <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7374-1.jpg" alt="porcelan"/>
+                   <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7374-s.jpg" alt="porcelan"/>
                 </a>
             </div>
             <div class="col-md-2 col-sm-3 col-xs-4">
                 <a href="#img10">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7379-1.jpg" alt="porcelan"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7379-s.jpg" alt="porcelan"/>
                 </a>
                 <a href="#_" class="lightbox zoom" id="img10">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7379-1.jpg" alt="porcelan"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7379-s.jpg" alt="porcelan"/>
                 </a>
             </div>
             <div class="col-md-2 col-sm-3 col-xs-4">
                 <a href="#img11">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7381-1.jpg" alt="porcelan"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7381-s.jpg" alt="porcelan"/>
                 </a>
                 <a href="#_" class="lightbox zoom" id="img11">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7381-1.jpg" alt="porcelan"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7381-s.jpg" alt="porcelan"/>
                 </a>
             </div>
             <div class="col-md-2 col-sm-3 col-xs-4">
                 <a href="#img12">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7390-1.jpg" alt="porcelan"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7390-s.jpg" alt="porcelan"/>
                 </a>
                 <a href="#_" class="lightbox zoom" id="img12">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7390-1.jpg" alt="porcelan"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7390-s.jpg" alt="porcelan"/>
                 </a>
             </div>
             <div class="col-md-2 col-sm-3 col-xs-4">
                 <a href="#img13">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7392-1.jpg" alt="porcelan"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7392-s.jpg" alt="porcelan"/>
                 </a>
                 <a href="#_" class="lightbox zoom" id="img13">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7392-1.jpg" alt="porcelan"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7392-s.jpg" alt="porcelan"/>
                 </a>
             </div>
             <div class="col-md-2 col-sm-3 col-xs-4">
                 <a href="#img14">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7401-1.jpg" alt="porcelan"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7401-s.jpg" alt="porcelan"/>
                 </a>
                 <a href="#_" class="lightbox zoom" id="img14">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7401-1.jpg" alt="porcelan"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7401-s.jpg" alt="porcelan"/>
                 </a>
             </div>
             <div class="col-md-2 col-sm-3 col-xs-4">
                 <a href="#img15">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7407-1.jpg" alt="porcelan"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7407-s.jpg" alt="porcelan"/>
                 </a>
                 <a href="#_" class="lightbox zoom" id="img15">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7407-1.jpg" alt="porcelan"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7407-s.jpg" alt="porcelan"/>
                 </a>
             </div>
             <div class="col-md-2 col-sm-3 col-xs-4">
                 <a href="#img16">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7409-1.jpg" alt="porcelan"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7409-s.jpg" alt="porcelan"/>
                 </a>
                 <a href="#_" class="lightbox zoom" id="img16">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7409-1.jpg" alt="porcelan"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7409-s.jpg" alt="porcelan"/>
                 </a>
             </div>
             <div class="col-md-2 col-sm-3 col-xs-4">
                 <a href="#img17">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7418-1.jpg" alt="porcelan"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7418-s.jpg" alt="porcelan"/>
                 </a>
                 <a href="#_" class="lightbox zoom" id="img17">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7418-1.jpg" alt="porcelan"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/porcelan/DSC_7418-s.jpg" alt="porcelan"/>
                 </a>
             </div>
             <div class="col-md-2 col-sm-3 col-xs-4 tabs">

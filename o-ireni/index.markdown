@@ -37,42 +37,42 @@ title: O Ireni
         <div class="row">
             <div class="col-md-2 col-sm-3 col-xs-4">
                 <a href="#img1">
-                   <img src="{{ site.baseurl }}{{ post.url }}/assets/images/atelje/DSC_7889-3.jpg" alt="les+glina"/>
+                   <img src="{{ site.baseurl }}{{ post.url }}/assets/images/atelje/DSC_7889-s.jpg" alt="les+glina"/>
                 </a>
                  <a href="#_" class="lightbox zoom" id="img1">
-                   <img src="{{ site.baseurl }}{{ post.url }}/assets/images/atelje/DSC_7889-3.jpg" alt="les+glina"/>
+                   <img src="{{ site.baseurl }}{{ post.url }}/assets/images/atelje/DSC_7889-s.jpg" alt="les+glina"/>
                 </a>
             </div>
             <div class="col-md-2 col-sm-3 col-xs-4">
                 <a href="#img2">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/atelje/DSC_7888-3.jpg" alt="les+glina"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/atelje/DSC_7888-s.jpg" alt="les+glina"/>
                 </a>
                 <a href="#_" class="lightbox zoom" id="img2">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/atelje/DSC_7888-3.jpg" alt="les+glina"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/atelje/DSC_7888-s.jpg" alt="les+glina"/>
                 </a>
             </div>
             <div class="col-md-2 col-sm-3 col-xs-4">
                 <a href="#img3">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/atelje/DSC_7905-3.jpg" alt="les+glina"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/atelje/DSC_7905-s.jpg" alt="les+glina"/>
                 </a>
                 <a href="#_" class="lightbox zoom" id="img3">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/atelje/DSC_7905-3.jpg" alt="les+glina"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/atelje/DSC_7905-s.jpg" alt="les+glina"/>
                 </a>
             </div>
             <div class="col-md-2 col-sm-3 col-xs-4">
                 <a href="#img6">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/atelje/DSC_7886-3.jpg" alt="les+glina"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/atelje/DSC_7886-s.jpg" alt="les+glina"/>
                 </a>
                 <a href="#_" class="lightbox zoom" id="img6">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/atelje/DSC_7886-3.jpg" alt="les+glina"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/atelje/DSC_7886-s.jpg" alt="les+glina"/>
                 </a>
             </div>
             <div class="col-md-2 col-sm-3 col-xs-4">
                 <a href="#img4">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/irena/DSC_7917-3.jpg" alt="les+glina"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/atelje/DSC_7917-s.jpg" alt="les+glina"/>
                 </a>
                 <a href="#_" class="lightbox zoom" id="img4">
-                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/irena/DSC_7917-3.jpg" alt="les+glina"/>
+                    <img src="{{ site.baseurl }}{{ post.url }}/assets/images/atelje/DSC_7917-s.jpg" alt="les+glina"/>
                 </a>
             </div>
             <div class="col-md-2 col-sm-3 col-xs-4 tabs">

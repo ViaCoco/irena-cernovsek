@@ -19,9 +19,8 @@
 	color: $terciar-color;
 	font-weight: 300;
 	margin: 45% auto;
-	padding: 0.2em;
 	border: 0.1em solid $terciar-color;
-	background-color: rgba(255,255,255,0.0);
+	background-color: $off-white-color;
 	text-decoration: none;
 }
 
@@ -34,7 +33,7 @@ padding: 0 2.5em;
    	 	background-color: $primary-color;
     	z-index: 2;
     	padding: 3%;
-    	border: solid 2em white;
+    	border: solid 2em $off-white-color;
 
 		h3 {
 			padding: 0.8em 0.2em;
