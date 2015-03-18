@@ -4,16 +4,6 @@ title: unikatni izdelki iz gline in porcelana
 ---
 
 <div class="container-fluid">
-        <nav class="col-xs-12 col-sm-12 col-md-6 pull-right">
-            <ul class="row">
-                <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/si/o-ireni">O Ireni</a></li>
-                <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/si/izdelki">Izdelki</a></li>
-                <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/si/kontakt">Kontakt</a></li>
-                <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/si/">Začetek</a></li>
-            </ul>
-        </nav>  
-    </div>
-<div class="container-fluid">
     <div class="cover-izdelki">
       <h2 class="naslov">Izdelki</h2>
         <div class="opis">
@@ -22,14 +12,14 @@ title: unikatni izdelki iz gline in porcelana
             </p>
         </div>
         <div class="row izdelki">
-            <a class="link-more" href="{{ site.baseurl }}{{ post.url }}/si/porcelan">
+            <a class="link-more" href="{{ site.baseurl }}{{ post.url }}/porcelan">
                 <div class="col-md-6 col-sm-12 col-xs-12 link-izdelki">
                     <h3>
                     porcelan
                     </h3>
         	    </div>
             </a>
-            <a class="link-more" href="{{ site.baseurl }}{{ post.url }}/si/raku">
+            <a class="link-more" href="{{ site.baseurl }}{{ post.url }}/raku">
                 <div class="col-md-6 col-sm-12 col-xs-12 link-izdelki">
                     <h3>
                     glina - raku

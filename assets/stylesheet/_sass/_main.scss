@@ -98,7 +98,6 @@ footer {
     background-color: $secondary-color-trans;
     text-align: center;
     padding: 1em;
-    z-index:200;
 }
 
 .top:hover {
@@ -171,13 +170,3 @@ img {
     outline: none;
 }
 
-
-.language {
-    z-index:200;
-    margin: 1em;
-
-    a{
-        font-family: 'Open Sans', sans-serif;
-        font-weight:300;
-    }
-}
