@@ -4,16 +4,6 @@ title: kontakt
 ---
 
 <div class="container-fluid">
-		<nav class="col-xs-12 col-sm-12 col-md-6 pull-right">
-			<ul class="row">
- 				<li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/si/o-ireni">O Ireni</a></li>
- 				<li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/si/izdelki">Izdelki</a></li>
-				<li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/si/kontakt">Kontakt</a></li>
- 				<li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/si/">Začetek</a></li>
-			</ul>
-		</nav>	
-	</div>
-<div class="container-fluid">
 	<img class="ozadje-kontakt" src="{{ site.baseurl }}/assets/images/atelje/DSC_7894.jpg">
 	<div class="kontakt-form">
 		<div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0 ">

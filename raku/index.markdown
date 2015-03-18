@@ -69,7 +69,7 @@ title: Raku
             </div>
             <div class="col-md-2 col-sm-3 col-xs-4 tabs">
                 <div class="tabs-thumb">
-                    <a href="{{ site.baseurl }}{{ post.url }}/si/kontakt">
+                    <a href="{{ site.baseurl }}{{ post.url }}/kontakt">
                         <h3 class="tabs-link ">
                         več
                         </h3>

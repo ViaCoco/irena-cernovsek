@@ -26,15 +26,14 @@
 
 .izdelki {
 padding: 0 2.5em;
-text-align: center;
 
 
 	.link-izdelki {
 		padding: 5em;
    	 	background-color: $primary-color;
     	z-index: 2;
-    	padding: 5%;
-    	margin: 2em auto;
+    	padding: 3%;
+    	border: solid 2em $off-white-color;
 
 		h3 {
 			padding: 0.8em 0.2em;
