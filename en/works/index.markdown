@@ -9,7 +9,7 @@ title: unikatni izdelki iz gline in porcelana
                 <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/en/irena">Irena</a></li>
                 <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/en/works">Works</a></li>
                 <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/en/contact">Contact</a></li>
-                <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/si/">Home</a></li>
+                <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/en/">Home</a></li>
             </ul>
         </nav>  
 </div>
