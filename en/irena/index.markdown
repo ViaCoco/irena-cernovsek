@@ -4,34 +4,22 @@ title: O Ireni
 ---
 
 <div class="container-fluid">
+        <nav class="col-xs-12 col-sm-12 col-md-6 pull-right">
+            <ul class="row">
+                <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/en/irena">Irena</a></li>
+                <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/en/works">Works</a></li>
+                <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/en/contact">Contact</a></li>
+                <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/si/">Home</a></li>
+            </ul>
+        </nav>  
+</div>
+<div class="container-fluid">
     <div class="cover-o-ireni">
         <h2 class="naslov">Irena</h2>
         <div class="opis">
            <p class="tekst text-center">
-            Irena Černovšek (rojena leta 1961)
-            je študirala na Pedagoški akademiji v
-            Ljubljani, smer likovna vzgoja in je zaposlena
-            kot likovna pedagoginja.
-            V svojih delih želi ujeti trenutke
-            in minljivost letnih časov kot 
-            simbola spremenljivosti in obnavljanja
-            v neskončnem krogotoku narave. 
-            V svoja dela vnaša vilinske in 
-            keltske simbole sreče, sonca, prijateljstva.
-            Izraža se v različnih slikarskih tehnikah
-            od akvarela do akrila in glinastih reliefih, 
-            žganih v stari japonski tehniki raku.
-            Žgane glinaste izdelke pritrdi na 100 
-            in več let stare deske in trame starih
-            hiš, železniških pragov in na les,
-            ki ga naplavi morje. 
-            Tako jim da v likovni govorici
-            izražen nov, včasih prikrit smisel
-            in pomen. 
-            Glina in les na novo zaživita v 
-            značilni simbiozi dveh naravnih 
-            materialov, ki ju človek obdeluje 
-            že tisočletja.
+            Born in 1961, she graduated from the College of Education in Ljubljana, Departement of Art. She works as an art teacher. In her works, she is trying to catch the moments and the transitoriness of the four seasons. She shows them as a symbol of changeability and revival within the endless circle of nature.</br>
+            Her works incorporate fairy and Celtic symbols of happiness, friendship and the sun. Her artistic expression utilizes a range of art techniques: aquarelle, acrylics, clay relief made in the old Japanese raku technique. She fastens her glaze fired objects to a hundred years old or even older boards, beams of old houses, railway sleepers and washed-ashore wood.Through her artistic expression, her works give a new, sometimes hidden meaning and sense. Clay and wood are revived in symbiosis of the two materials that man has been making use of for thousands of years.
             </p>
         </div>
         <div class="row">
@@ -77,9 +65,9 @@ title: O Ireni
             </div>
             <div class="col-md-2 col-sm-3 col-xs-4 tabs">
              <div class="tabs-thumb">
-                 <a href="{{ site.baseurl }}{{ post.url }}/kontakt">
+                 <a href="{{ site.baseurl }}{{ post.url }}/en/contact">
                     <h3 class="tabs-link ">
-                    več
+                    more
                     </h3>
                  </a>
              </div>
