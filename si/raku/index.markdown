@@ -3,6 +3,16 @@ layout: default
 title: Raku
 ---
 
+<div class="container-fluid">
+        <nav class="col-xs-12 col-sm-12 col-md-6 pull-right">
+            <ul class="row">
+                <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/si/o-ireni">O Ireni</a></li>
+                <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/si/izdelki">Izdelki</a></li>
+                <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/si/kontakt">Kontakt</a></li>
+                <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/">Začetek</a></li>
+            </ul>
+        </nav>  
+    </div>
 <div class="cover-o-ireni">
     <h2 class="naslov">Glina-Raku</h2>
         <div class="opis">
