@@ -4,14 +4,14 @@ title: Raku
 ---
 
 <div class="container-fluid">
-    <nav class="col-xs-12 col-sm-12 col-md-6 pull-right">
+   <nav class="col-xs-12 col-sm-12 col-md-6 pull-right">
       <ul class="row">
-        <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/en/irena">Irena</a></li>
-        <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/en/works">Works</a></li>
-        <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/en/contact">Contact</a></li>
-        <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/en/">Home</a></li>
+        <a href="{{ site.baseurl }}{{ post.url }}/en/irena"><li class="col-xs-6 col-sm-4 col-md-3 top">Irena</li></a>
+        <a href="{{ site.baseurl }}{{ post.url }}/en/works"><li class="col-xs-6 col-sm-4 col-md-3 top">Works</li></a>
+        <a href="{{ site.baseurl }}{{ post.url }}/en/contact"><li class="col-xs-6 col-sm-4 col-md-3 top">Contact</li></a>
+        <a href="{{ site.baseurl }}{{ post.url }}/en/"><li class="col-xs-6 col-sm-4 col-md-3 top">Home</li></a>
       </ul>
-    </nav>  
+    </nav>
 </div>
 <div class="cover-o-ireni">
     <h2 class="naslov">Clay - Raku</h2>

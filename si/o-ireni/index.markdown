@@ -3,14 +3,14 @@ layout: default
 title: O Ireni
 ---
 <div class="container-fluid">
-        <nav class="col-xs-12 col-sm-12 col-md-6 pull-right">
+       <nav class="col-xs-12 col-sm-12 col-md-6 pull-right">
             <ul class="row">
-                <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/si/o-ireni">O Ireni</a></li>
-                <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/si/izdelki">Izdelki</a></li>
-                <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/si/kontakt">Kontakt</a></li>
-                <li class="col-xs-6 col-sm-4 col-md-3 top"><a href="{{ site.baseurl }}{{ post.url }}/">Začetek</a></li>
+                <a href="{{ site.baseurl }}{{ post.url }}/si/o-ireni"><li class="col-xs-6 col-sm-4 col-md-3 top">O Ireni</li></a>
+                <a href="{{ site.baseurl }}{{ post.url }}/si/izdelki"><li class="col-xs-6 col-sm-4 col-md-3 top">Izdelki</li></a>
+                <a href="{{ site.baseurl }}{{ post.url }}/si/kontakt"><li class="col-xs-6 col-sm-4 col-md-3 top">Kontakt</li></a>
+                <a href="{{ site.baseurl }}{{ post.url }}/"><li class="col-xs-6 col-sm-4 col-md-3 top">Začetek</li></a>
             </ul>
-        </nav>  
+        </nav> 
     </div>
 <div class="container-fluid">
     <div class="cover-o-ireni">

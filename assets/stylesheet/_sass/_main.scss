@@ -16,10 +16,14 @@ ul {
 
 a {
     text-decoration: none;
+    color: white;
+    font-family:'Open Sans', sans-serif;
+    font-weight: 300;
 }
 
 a:hover {
     text-decoration: none;
+    color: white;
 }
 
 .container-fluid {
@@ -175,9 +179,14 @@ img {
 .language {
     z-index:200;
     margin: 1em;
+    background-color: $primary-color;
 
     a{
         font-family: 'Open Sans', sans-serif;
         font-weight:300;
     }
+}
+
+.language:hover {
+    background-color: $secondary-color-trans;
 }
