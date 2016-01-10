@@ -1,5 +1,5 @@
 ---
-layout: english
+layout: slovensko
 title: contact
 ---
 
