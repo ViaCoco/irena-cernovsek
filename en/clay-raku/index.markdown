@@ -1,6 +1,6 @@
 ---
 layout: english
-title: Raku
+title: Clay - raku
 ---
 
 <div class="container-fluid">

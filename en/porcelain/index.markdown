@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Porcelan
+layout: english
+title: Porcelain
 ---
 
 <div class="container-fluid">

@@ -1,6 +1,6 @@
 ---
 layout: english
-title: O Ireni
+title: About Irena
 ---
 
 <div class="container-fluid">

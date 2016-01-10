@@ -1,6 +1,6 @@
 ---
 layout: english
-title: kontakt
+title: contact
 ---
 
 <div class="container-fluid">
