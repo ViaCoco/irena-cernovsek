@@ -1,6 +1,6 @@
 ---
-layout: default
-title: unikatni izdelki iz gline in porcelana
+layout: english
+title: unique works
 ---
 
 <div class="container-fluid">

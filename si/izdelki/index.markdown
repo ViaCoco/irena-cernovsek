@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: slovensko
 title: unikatni izdelki iz gline in porcelana
 ---
 

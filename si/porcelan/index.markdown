@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: slovensko
 title: Porcelan
 ---
 <div class="container-fluid">

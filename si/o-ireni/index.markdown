@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: slovensko
 title: O Ireni
 ---
 <div class="container-fluid">
