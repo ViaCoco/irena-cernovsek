@@ -18,7 +18,8 @@ title: unique works
       <h2 class="naslov">Works</h2>
         <div class="opis">
            <p class="tekst text-center">
-            "Things separate from their stories have no meaning. They are only shapes. Of a certain size and color. A certain weight. When their meaning has become lost to us they no longer have even a name. The story on the other hand can never be lost from its place in the world, for it is that place."
+            "Things separate from their stories have no meaning. They are only shapes. Of a certain size and color. A certain weight. When their meaning has become lost to us they no longer even have a name.
+            The story on the other hand can never be lost from its place in the world, for it is that place."
             </p>
         </div>
         <div class="row izdelki">
